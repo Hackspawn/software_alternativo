@@ -10,8 +10,13 @@
 **OS:** Windows, Mac OS X, Linux\
 **Alternativa a:** Adobe Illustrator
 
+**Software:** Scribus\
+**Sitio web:** [scribus.org](https://www.scribus.net)\
+**OS:** Windows, Mac OS X, Linux\
+**Alternativa a:** Adobe InDesign
+
 **Software:** Krita\
-**Sitio web:** [kria.org](https://krita.org/es/)\
+**Sitio web:** [krita.org](https://krita.org/es/)\
 **OS:** Windows, Mac OS X, Linux\
 **Alternativa a:** Autodesk Sketchbook pro
 
